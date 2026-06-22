@@ -51,7 +51,7 @@ Espero que tengas un día increíble y que este nuevo año de vida esté lleno d
             headerColor: "#ffea00",
             hasVariants: true,
             leftImage: "images/Action_Comics_1.jpg",
-            rightImage: "images/Superman.png",
+            rightImage: "images/superman.png",
             variant: "<strong>Versión Favorita:</strong> La adaptación de James Gunn en <em>Superman (2025)</em>, capturando al héroe optimista clásico en la era moderna."
         },
         allmight: {
